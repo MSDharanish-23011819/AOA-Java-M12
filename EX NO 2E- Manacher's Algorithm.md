@@ -35,8 +35,8 @@ using Manacher's Algorithm
 ## Program:
 ```
 /*
-Developed by: Ananda Rakshan K V
-Register Number:  212223230014
+Developed by: DHARANISH MS
+Register Number:  212223240027
 */
 import java.util.Scanner;
 
